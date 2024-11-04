@@ -10,7 +10,7 @@ I specialize in Java and have professional experience working with Apache Kafka,
 I am an empathetic team player and an innovative, creative thinker.
 
 * 🌍  I'm based in Berlin, Germany.
-* 🖥️  See my portfolio at [Github Pages](http://sanjeevpr.github.io/about).
+* 🖥️  See my portfolio [here](http://sanjeevpr.github.io/about).
 * ✉️  You can contact me at [sanjiv.pradhan94@gmail.com](mailto:sanjiv.pradhan94@gmail.com).
 * 🧠  I'm learning Kotlin and AWS.
 * 🤝  I'm open to collaborating on any fun projects.
